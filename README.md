@@ -18,8 +18,6 @@
 
 <br/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YillonMask&theme=xcode&hide_border=true)
-
 ## Profile
 
 [![LinkedIn](https://img.shields.io/badge/in%2Fxinrui--yi-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xinrui-yi/)
