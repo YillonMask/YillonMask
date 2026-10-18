@@ -1,4 +1,4 @@
-<img src="https://github.com/YillonMask.png" width="220px" height="220px" align="right" style="border-radius: 50%" />
+<img src="https://github.com/YillonMask.png" width="170px" height="170px" align="right" style="border-radius: 50%" />
 
 <br />
 
