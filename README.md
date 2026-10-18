@@ -1,11 +1,7 @@
-<img src="https://github.com/YillonMask.png" width="170px" height="170px" align="right" style="border-radius: 50%" />
-
-<br />
-
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3400&pause=1000&color=44FF69&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
-	<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3400&pause=1000&color=1A7F37&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
-	<img height="50px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3400&pause=1000&color=44FF69&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=3400&pause=1000&color=44FF69&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
+	<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=3400&pause=1000&color=1A7F37&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
+	<img height="70px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=3400&pause=1000&color=44FF69&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
 </picture>
 
 <br />
