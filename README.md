@@ -1,18 +1,4 @@
-<img align="right" width="280" alt="ASCII goldfish swimming" src="assets/fish.gif" />
-
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=3400&pause=1000&color=44FF69&vCenter=true&width=580&height=80&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
-	<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=3400&pause=1000&color=1A7F37&vCenter=true&width=580&height=80&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
-	<img height="70px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&duration=3400&pause=1000&color=44FF69&vCenter=true&width=580&height=80&lines=Hi%2C+I'm+Richard+%F0%9F%91%8B" />
-</picture>
-
-<br />
-
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=500&height=40&lines=MSCS+%40+Northeastern+University;Building+production+AI%2FML+systems;RAG+%C2%B7+Agents+%C2%B7+Observability" />
-	<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0969DA&vCenter=true&width=500&height=40&lines=MSCS+%40+Northeastern+University;Building+production+AI%2FML+systems;RAG+%C2%B7+Agents+%C2%B7+Observability" />
-	<img height="40px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=500&height=40&lines=MSCS+%40+Northeastern+University;Building+production+AI%2FML+systems;RAG+%C2%B7+Agents+%C2%B7+Observability" />
-</picture>
+<img width="100%" alt="Hi, I'm Richard. MSCS @ Northeastern University. Building production AI/ML systems. RAG, Agents, Observability. An ASCII goldfish swims beside the text." src="assets/banner.gif" />
 
 <br/>
 
