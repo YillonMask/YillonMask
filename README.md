@@ -1,7 +1,7 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="assets/rocket-dark.gif" />
 	<source media="(prefers-color-scheme: light)" srcset="assets/rocket-light.gif" />
-	<img align="right" width="300" alt="Spinning ASCII rocket" src="assets/rocket-light.gif" />
+	<img align="right" width="180" alt="Spinning ASCII rocket" src="assets/rocket-light.gif" />
 </picture>
 
 <picture>
